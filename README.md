@@ -1,5 +1,5 @@
 # BizLogic Scanner - Advanced Business Logic Vulnerability Framework
-# ✩₊˚.⋆☾⋆⁺₊✧by:ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧
+## ✩₊˚.⋆☾⋆⁺₊✧by:ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧
 ## Overview
 
 BizLogic Scanner is an interactive, modular business-logic heuristic scanner with advanced exploitation capabilities. Built for red teams and ethical hackers, this framework systematically identifies business logic flaws that traditional vulnerability scanners miss. The tool employs conservative crawling, intelligent detection heuristics, and optional exploitation modules to validate findings in a controlled manner.
@@ -13,6 +13,8 @@ BizLogic Scanner is an interactive, modular business-logic heuristic scanner wit
 - **Optional Authentication Support**: Second-pass authenticated scanning with supplied headers
 - **Controlled Exploitation**: Safe exploitation modules with built-in safety limits
 - **Multi-Format Reporting**: Text, JSON, HTML, and Nuclei-compatible template exports
+
+---
 
 ## Installation
 
@@ -97,11 +99,17 @@ Reports are saved to timestamped directories under `reports/scan_[domain]_[times
 - Exploitation modules include automatic safety limits
 - No persistent connections or background processes
 
+---
+
 ## Legal and Ethical Disclaimer
 
 **WARNING: This tool is designed for authorized security testing only.**
 
-You must have explicit written permission to test any system before using this tool. Unauthorized testing is illegal and unethical. ✩₊˚.⋆☾⋆⁺₊✧ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧ assumes no liability for misuse of this software.
+You must have explicit written permission to test any system before using this tool. Unauthorized testing is illegal and unethical. 
 
-Business logic vulnerabilities can cause serious business impact if exploited maliciously. Use this tool responsibly and always in accordance with your testing scope and rules of engagement.
+✩₊˚.⋆☾⋆⁺₊✧ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧ assumes no liability for misuse of this software.
+
+Business logic vulnerabilities can cause serious business impact if exploited maliciously. 
+
+Use this tool responsibly and always in accordance with your testing scope and rules of engagement.
 
