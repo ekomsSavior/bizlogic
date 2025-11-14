@@ -1,6 +1,7 @@
 # BizLogic Scanner - Advanced Business Logic Vulnerability Framework
 ## ✩₊˚.⋆☾⋆⁺₊✧by:ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧
-## Overview
+
+![image1(4)](https://github.com/user-attachments/assets/08371a6b-f233-4ca4-95ee-d4e9399a2414)
 
 BizLogic Scanner is an interactive, modular business-logic heuristic scanner with advanced exploitation capabilities. Built for red teams and ethical hackers, this framework systematically identifies business logic flaws that traditional vulnerability scanners miss. The tool employs conservative crawling, intelligent detection heuristics, and optional exploitation modules to validate findings in a controlled manner.
 
