@@ -1,4 +1,4 @@
-# BizLogic Scanner - Advanced Business Logic Vulnerability Framework
+## BizLogic Scanner - Advanced Business Logic Vulnerability Framework
 ## ✩₊˚.⋆☾⋆⁺₊✧by:ek0ms savi0r✩₊˚.⋆☾⋆⁺₊✧
 
 ![image1(4)](https://github.com/user-attachments/assets/08371a6b-f233-4ca4-95ee-d4e9399a2414)
